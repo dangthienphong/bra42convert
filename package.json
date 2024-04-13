@@ -1,0 +1,29 @@
+{
+  "name": "bra42convert",
+  "version": "1.0.0",
+  "description": "bra42convert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dangthienphong/bra42convert.git"
+  },
+  "keywords": [
+    "bra42convert",
+    "ethereum",
+    "gas",
+    "eth",
+    "crypto"
+  ],
+  "author": "dangthienphong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dangthienphong/bra42convert/issues"
+  },
+  "homepage": "https://github.com/dangthienphong/bra42convert#readme",
+  "dependencies": {
+    "web3": "^1.5.2"
+  }
+}
